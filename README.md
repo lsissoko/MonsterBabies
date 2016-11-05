@@ -1,4 +1,4 @@
-![](https://dl.dropboxusercontent.com/u/11066635/Hosting/monster-babies-cover.png)
+![](https://dl.dropboxusercontent.com/u/11066635/Hosting/games/monster_babies/monster-babies-cover.png)
 
 A simple Flash ([Flixel](https://github.com/AdamAtomic/flixel)) game in which two players must protect regular babies from their evil, monster counterparts.
 
